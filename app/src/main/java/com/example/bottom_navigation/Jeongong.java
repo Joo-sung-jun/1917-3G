@@ -50,7 +50,7 @@ public class Jeongong extends Fragment {
     public String token;
     public String grade;
     public String gradenum;
-    DataTemp dataTemp = DataTemp.getInstance();
+
 
     public static Jeongong newinstance() {
         return new Jeongong();
